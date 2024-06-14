@@ -2,7 +2,7 @@
 function sum (num1,num2){
     return num1+num2
 }
-// console.log(sum(2,5));
+console.log(sum(2,5));
 
 // Write a function that checks if a number is even or odd.
 
@@ -14,7 +14,7 @@ function odd(num){
         return(`${num} is even`);
     }
 }
-// console.log(odd(12));
+console.log(odd(12));
 
 // Implement a function that reverses a string.
 function stringReverse (strg){
